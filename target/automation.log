@@ -1,0 +1,542 @@
+[2025-08-09 02:14:18] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 02:14:18] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 02:14:18] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 02:14:18] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 02:14:19] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 02:14:19] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 11:42:56] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 11:42:56] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 11:42:57] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 11:42:57] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 11:42:57] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 11:42:57] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 12:32:45] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 12:32:45] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 12:32:47] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 12:32:47] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 12:32:47] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 12:32:47] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 12:36:56] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 12:36:56] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 12:36:57] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 12:36:57] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 12:36:57] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 12:36:57] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 12:41:36] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 12:41:36] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 12:41:36] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 12:41:36] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 12:41:36] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 12:41:36] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 12:42:57] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 12:42:57] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 12:42:57] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 12:42:57] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 12:42:57] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 12:42:57] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 12:55:32] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 12:55:32] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 12:55:33] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 12:55:33] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 12:55:33] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 12:55:33] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 12:59:11] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 12:59:11] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 12:59:11] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 12:59:11] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 12:59:12] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 12:59:12] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:00:05] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:00:05] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:00:06] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:00:06] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:00:06] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:00:06] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:06:35] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:06:35] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:06:35] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:06:35] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:06:35] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:06:35] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:07:15] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:07:15] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:07:16] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:07:16] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:07:17] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:07:17] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:10:08] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:10:08] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:10:08] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:10:08] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:10:09] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:10:09] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:12:04] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:12:04] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:12:04] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:12:04] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:12:05] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:12:05] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:12:55] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:12:55] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:12:55] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:12:55] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:12:55] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:12:55] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:13:35] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:13:35] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:13:35] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:13:35] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:13:36] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:13:36] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:15:22] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:15:22] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:15:23] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:15:23] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:15:24] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:15:24] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 13:16:13] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 13:16:13] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 13:16:13] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 13:16:13] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 13:16:14] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 13:16:14] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 18:18:41] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 18:18:41] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 18:18:41] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 18:18:41] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 18:18:41] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 18:18:41] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 19:16:37] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 19:16:37] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 19:16:38] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 19:16:38] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 19:16:38] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 19:16:38] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 20:29:07] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 20:29:07] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 20:29:08] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 20:29:08] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 20:29:08] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 20:29:08] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 20:31:21] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 20:31:21] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 20:31:22] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 20:31:22] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 20:31:22] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 20:31:22] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-09 20:32:28] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-09 20:32:28] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-09 20:32:28] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-09 20:32:28] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-09 20:32:29] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-09 20:32:29] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-10 01:00:20] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-10 01:00:20] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-10 01:00:21] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-10 01:00:21] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-10 01:00:21] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-10 01:00:21] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-10 01:35:03] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-10 01:35:03] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-10 01:35:04] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-10 01:35:04] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-10 01:35:04] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-10 01:35:04] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-10 01:35:57] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-10 01:35:57] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-10 01:35:57] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-10 01:35:57] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-10 01:35:58] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-10 01:35:58] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-10 01:37:03] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-10 01:37:03] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-10 01:37:04] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-10 01:37:04] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-10 01:37:05] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-10 01:37:05] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:04:47] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:04:47] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:04:48] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:04:48] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:04:48] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:04:48] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:05:46] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:05:46] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:05:46] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:05:46] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:05:47] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:05:47] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:11:48] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:11:48] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:11:48] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:11:48] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:11:49] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:11:49] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:12:47] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:12:47] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:12:47] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:12:47] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:12:47] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:12:47] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:15:03] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:15:03] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:15:04] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:15:04] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:15:05] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:15:05] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:20:26] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:20:26] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:20:26] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:20:26] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:20:26] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:20:26] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-11 20:33:44] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-11 20:33:44] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-11 20:33:44] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-11 20:33:44] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-11 20:33:45] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-11 20:33:45] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-12 17:58:26] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-12 17:58:26] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-12 17:58:26] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-12 17:58:26] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-12 17:58:27] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-12 17:58:27] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-12 17:59:07] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-12 17:59:07] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-12 17:59:08] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-12 17:59:08] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-12 17:59:08] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-12 17:59:08] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 16:45:25] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 16:45:25] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 16:45:26] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 16:45:26] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 16:45:26] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 16:45:26] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 16:49:06] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 16:49:06] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 16:49:06] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 16:49:06] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 16:49:07] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 16:49:07] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 16:50:49] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 16:50:50] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 16:50:50] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 16:50:50] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 16:50:51] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 16:50:51] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 19:57:04] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 19:57:04] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 19:57:05] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 19:57:05] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 19:57:06] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 19:57:06] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 19:57:06] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 19:57:06] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 19:57:07] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:11:29] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:11:29] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:11:29] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:11:29] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:11:30] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:12:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:12:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:12:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:12:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:12:17] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:12:17] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:12:17] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:12:17] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:12:18] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:12:18] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:12:19] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 20:26:45] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 20:26:45] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 20:26:45] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 20:26:45] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 20:26:45] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 20:26:45] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:34:25] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:34:25] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:34:25] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:34:25] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:34:26] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:34:26] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:34:26] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:34:26] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:34:26] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:34:26] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:34:27] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:34:27] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:34:27] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message text
+[2025-08-13 21:35:53] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:35:54] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:35:54] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:35:54] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:35:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:35:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:35:55] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:35:55] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:35:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:35:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:35:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:35:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:35:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message text
+[2025-08-13 21:35:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:35:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:35:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:35:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:35:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:38:59] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:38:59] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:38:59] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:38:59] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:38:59] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:38:59] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:39:00] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:39:00] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:39:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:39:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:39:00] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:39:00] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:39:00] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message text
+[2025-08-13 21:41:31] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:41:31] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:41:32] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:41:32] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:41:32] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:41:32] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:41:34] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:41:34] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:41:34] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:41:34] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:41:35] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:41:35] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:41:35] [main] INFO  POM_classes.LoginPage - Fetching error message text
+[2025-08-13 21:42:43] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:42:43] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:42:44] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:42:44] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:42:45] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:42:45] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:42:58] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:42:58] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:42:58] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:42:58] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:42:59] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:42:59] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:42:59] [main] INFO  POM_classes.LoginPage - Fetching error message text
+[2025-08-13 21:47:20] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:47:20] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:47:20] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:47:20] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:47:20] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:47:20] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:47:33] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:47:33] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:47:34] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:47:34] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:47:34] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:47:34] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:47:34] [main] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 21:49:44] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:49:44] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:49:44] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:49:44] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:49:45] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:49:45] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:49:59] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:49:59] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:50:00] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:50:00] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:50:01] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:50:01] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:50:01] [main] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 21:53:40] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:53:40] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:53:40] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:53:40] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:53:40] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:53:40] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:53:54] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:53:54] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:53:55] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:53:55] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:53:55] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:53:55] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:53:55] [main] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 21:55:18] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:55:18] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:55:18] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:55:18] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:55:18] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:55:18] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:55:34] [main] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:55:34] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:55:35] [main] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:55:35] [main] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:55:35] [main] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:55:35] [main] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:55:36] [main] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 21:56:35] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:56:35] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:56:35] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:56:35] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:56:36] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:56:36] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:56:37] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:56:37] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:56:37] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:56:37] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:56:37] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 21:56:37] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 21:56:38] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:56:38] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:56:38] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:56:38] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:56:38] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 21:56:38] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 21:56:38] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:56:38] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:56:38] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:56:38] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 21:56:38] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 21:56:39] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 21:56:39] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 22:04:59] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 22:04:59] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 22:05:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 22:05:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 22:05:01] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 22:05:01] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 22:05:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 22:05:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 22:05:01] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 22:05:01] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 22:05:01] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 22:05:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 22:05:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 22:07:52] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 22:07:52] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 22:07:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 22:07:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 22:07:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 22:07:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 22:07:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-13 22:07:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 22:07:57] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 22:07:57] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 22:07:57] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 22:07:57] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 22:07:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-13 22:07:58] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-13 22:08:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-13 22:08:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-13 22:08:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-13 22:08:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 11:00:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 11:00:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 11:00:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 11:00:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 11:00:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 11:00:55] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 11:00:55] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 11:00:55] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 11:00:56] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 11:00:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 11:00:56] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 11:00:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 11:00:57] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 11:00:57] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 11:00:57] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 11:00:58] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 11:00:58] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 11:00:58] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-14 15:17:46] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 15:17:46] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 15:17:46] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 15:17:46] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 15:17:48] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 15:17:48] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 15:17:49] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 15:17:49] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 15:17:49] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 15:17:49] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 15:17:50] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 15:17:50] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 15:17:50] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 15:17:50] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 15:17:50] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 15:17:50] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 15:17:51] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 15:17:51] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 15:17:51] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 15:17:51] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 15:17:51] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 15:17:52] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 15:17:52] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 15:17:52] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 15:17:52] [TestNG-PoolService-2] INFO  POM_classes.LoginPage - Fetching error message
+[2025-08-14 18:01:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 18:01:00] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 18:01:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 18:01:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 18:01:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 18:01:01] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-14 18:02:27] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-14 18:02:27] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-14 18:02:27] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-14 18:02:27] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-14 18:02:28] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-14 18:02:28] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
