@@ -26,8 +26,11 @@ pipeline {
 
         stage('Generate Allure Report') {
             steps {
-                echo 'Generating Allure Report...'
-               // allure includeProperties: false, jdk: '', results: [[path: 'target/allure-results']]
+                allure([
+                    includeProperties: false,
+                    jdk: '',
+                    results: [[path: 'target/allure-results']]
+                ])
             }
         }
     }
@@ -35,7 +38,7 @@ pipeline {
     post {
         always {
             echo 'Archiving Test Results...'
-            archiveArtifacts artifacts: '**/target/*.log', allowEmptyArchive: true
+            archiveArtifacts artifacts: 'target/allure-results/**', fingerprint: true
         }
         failure {
             echo 'Build Failed!'
