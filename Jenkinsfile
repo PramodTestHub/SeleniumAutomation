@@ -4,7 +4,7 @@ pipeline {
    environment {
         GIT_URL = 'https://github.com/PramodTestHub/SeleniumAutomation.git'
         GIT_BRANCH = 'main'
-        JAVA_HOME = "C:/Program Files/Java/jdk-11"
+        JAVA_HOME = "C:/Program Files/Java/jdk-21"
         MAVEN_HOME = "C:/Users/admin/Downloads/apache-maven-3.9.11-bin/apache-maven-3.9.11"
         PATH = "${JAVA_HOME}/bin;${MAVEN_HOME}/bin;${env.PATH}"
     }
