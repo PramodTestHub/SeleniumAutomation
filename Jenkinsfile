@@ -8,6 +8,9 @@ pipeline {
         MAVEN_HOME = "C:/Users/admin/Downloads/apache-maven-3.9.11-bin/apache-maven-3.9.11"
         PATH = "${JAVA_HOME}/bin;${MAVEN_HOME}/bin;${env.PATH}"
     }
+    triggers {
+        cron('H/5 * * * *')   
+    }
 
     stages {
         stage('Checkout Code') {
