@@ -38,10 +38,6 @@ pipeline {
         }
         failure {
             echo 'Build Failed! Sending email notification...'
-            // Uncomment if you configure email
-              mail to: 'pramodhmh26@mail.com',
-                  subject: "Jenkins Pipeline Failed: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
-                  body: "Check Jenkins for details: ${env.BUILD_URL}"
         }
     }
 }
