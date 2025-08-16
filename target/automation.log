@@ -540,3 +540,9 @@
 [2025-08-14 18:02:27] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
 [2025-08-14 18:02:28] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
 [2025-08-14 18:02:28] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
+[2025-08-16 12:03:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering username
+[2025-08-16 12:03:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: user-name
+[2025-08-16 12:03:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Entering Password
+[2025-08-16 12:03:16] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for visibility of element: By.id: password
+[2025-08-16 12:03:17] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Click on login button
+[2025-08-16 12:03:17] [TestNG-PoolService-0] INFO  POM_classes.LoginPage - Waiting for element to be clickable: By.id: login-button
