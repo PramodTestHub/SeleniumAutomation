@@ -19,7 +19,8 @@ pipeline {
         stage('Build & Run Tests') {
             steps {
                 echo 'Running Selenium-Cucumber Tests...'
-                bat "mvn clean test -DskipTests=false"
+                bat "mvn -version"
+                bat "mvn clean test
             }
         }
 
@@ -37,7 +38,7 @@ pipeline {
             archiveArtifacts artifacts: '**/target/*.log', allowEmptyArchive: true
         }
         failure {
-            echo 'Build Failed! Sending email notification...'
+            echo 'Build Failed!'
         }
     }
 }
