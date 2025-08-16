@@ -3,7 +3,7 @@ pipeline {
 
     tools {
     
-       MAVEN_HOME = "C:\Users\admin\Downloads\apache-maven-3.9.11-bin\apache-maven-3.9.11"         
+       MAVEN_HOME = "C:/Users/admin/Downloads/apache-maven-3.9.11-bin/apache-maven-3.9.11"         
         PATH = "${MAVEN_HOME}/bin;${env.PATH}"
         JAVA_HOME = "C:/Program Files/Java/jdk-11" 
         PATH = "${JAVA_HOME}/bin;${env.PATH}"
