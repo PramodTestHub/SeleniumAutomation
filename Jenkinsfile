@@ -19,7 +19,7 @@ pipeline {
         stage('Build & Run Tests') {
             steps {
                 echo 'Running Selenium-Cucumber Tests...'
-                bat 'mvn clean test'
+                bat "mvn clean test -DskipTests=false"
             }
         }
 
