@@ -30,7 +30,7 @@ pipeline {
                     includeProperties: false,
                     jdk: '',
                     commandline: 'allure',   // 👈 must match the name you set in Tools config
-                    results: [[path: 'target/allure-results']]
+                    results: [[path: 'allure-results']]
                 ])
             }
         }
@@ -39,7 +39,7 @@ pipeline {
     post {
         always {
             echo 'Archiving Test Results...'
-            archiveArtifacts artifacts: 'target/allure-results/**', fingerprint: true
+            archiveArtifacts artifacts: 'allure-results/**', fingerprint: true
         }
         failure {
             echo 'Build Failed!'
