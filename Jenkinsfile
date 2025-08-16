@@ -20,7 +20,7 @@ pipeline {
             steps {
                 echo 'Running Selenium-Cucumber Tests...'
                 bat "mvn -version"
-                bat "mvn clean test
+                bat "mvn clean test"
             }
         }
 
