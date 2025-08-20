@@ -9,7 +9,7 @@ pipeline {
         PATH = "${JAVA_HOME}/bin;${MAVEN_HOME}/bin;${env.PATH}"
     }
     triggers {
-        cron('H/5 * * * *')   
+        cron('H 8,20 * * *')   
     }
 
     stages {
