@@ -32,7 +32,7 @@ pipeline {
                 allure([
                     includeProperties: false,
                     jdk: '',
-                    commandline: 'allure',   // 👈 must match the name you set in Tools config
+                    commandline: 'allure',  
                     results: [[path: 'allure-results']]
                 ])
             }

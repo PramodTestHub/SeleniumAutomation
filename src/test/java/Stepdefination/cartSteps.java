@@ -3,15 +3,12 @@ package Stepdefination;
 import static org.testng.Assert.assertTrue;
 
 import java.awt.AWTException;
-
 import POM_classes.CartPage;
 import POM_classes.LoginPage;
 import POM_classes.ProductsPage;
+import Utilities.Constants;
 import Utilities.DriverManager;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import io.cucumber.java.en.*;
 
 public class cartSteps {
 	
@@ -22,7 +19,7 @@ public class cartSteps {
 
     @Given("I on the Swag Labs login page")
     public void i_on_the_swag_labs_login_page() {
-    	DriverManager.getDriver().get("https://www.saucedemo.com/");
+    	DriverManager.getDriver().get(Constants.URL);
         loginPage = new LoginPage(DriverManager.getDriver());
        
     }

@@ -7,31 +7,20 @@
 
 package Stepdefination;
 import java.awt.AWTException;
-import java.awt.Robot;
-import java.awt.event.KeyEvent;
-
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-
 import POM_classes.LoginPage;
 import POM_classes.ProductsPage;
+import Utilities.Constants;
 import Utilities.DriverManager;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import io.cucumber.java.en.*;
 
 public class Inventory {
 	
-	//WebDriver driver;
     LoginPage loginPage;
     ProductsPage productsPage;
     
-    
-    
     @Given("I am on the Swag Labs login pages")
     public void i_am_on_the_login_pages() {
-    	DriverManager.getDriver().get("https://www.saucedemo.com/");
+    	DriverManager.getDriver().get(Constants.URL);
         loginPage = new LoginPage(DriverManager.getDriver());
        
     }

@@ -20,21 +20,20 @@ import io.cucumber.java.Scenario;
 
 public class Hooks {
 	
-	//private WebDriver driver;
-
     @Before
     public void setUp() {
-         DriverManager.getDriver(); // Initialize driver
+         DriverManager.getDriver(); 
     }
 
     @After
     public void tearDown(Scenario scenario) throws IOException {
     	if (scenario.isFailed()) {
-           ScreenshotUtils.captureScreenshot();
-           // scenario.attach(screenshot, "image/png", scenario.getName());
+
+            ScreenshotUtils.captureScreenshot();
+           
         }
 
-        // Quit driver
+       
         DriverManager.quitDriver();
     }
 

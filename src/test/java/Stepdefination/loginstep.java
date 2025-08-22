@@ -9,20 +9,19 @@ package Stepdefination;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 import POM_classes.LoginPage;
+import Utilities.Constants;
 import Utilities.DriverManager;
 import io.cucumber.java.en.*;
 
 public class loginstep{
 	
-    //WebDriver driver;
-	
 	LoginPage loginPage;
 
     @Given("I am on the Swag Labs login page")
     public void i_am_on_the_login_page() {
-        //driver = new ChromeDriver(); // Or your browser of choice
+        //driver = new ChromeDriver(); // Or browser of choice
     	loginPage = new LoginPage(DriverManager.getDriver());
-        DriverManager.getDriver().get("https://www.saucedemo.com/");
+        DriverManager.getDriver().get(Constants.URL);
     }
 
     @When("I enter username {string} and password {string}")
@@ -42,6 +41,7 @@ public class loginstep{
         String currentUrl = DriverManager.getDriver().getCurrentUrl();
         assertTrue(currentUrl.contains("inventory.html"));
     }
+    
     @Then("I am getting the title of the page")
     public void i_am_getting_the_title_of_the_page() {
         String actualTitle = DriverManager.getDriver().getTitle();
@@ -50,9 +50,8 @@ public class loginstep{
         // Optional assertion to validate title
         String expectedTitle = "Swag Labs";
         assertEquals(expectedTitle, actualTitle);
-        
-       //Assert.assertE("Title does not match!", expectedTitle, actualTitle);
     }
+    
     @Then("I should getting {string}")
     public void i_should_getting(String expectedMessage) {
     	String actualError = loginPage.getErrorText();

@@ -10,6 +10,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 import Utilities.BaseClass;
+import exceptions.ElementNotFoundException;
+import exceptions.PageNotLoadedException;
 
 public class LoginPage extends BaseClass {
 	
@@ -17,6 +19,7 @@ public class LoginPage extends BaseClass {
     // Constructor
     public LoginPage(WebDriver driver) {
     	super(driver);
+    	
     }
 
     // Locators
@@ -37,6 +40,11 @@ public class LoginPage extends BaseClass {
     }
 
     public void clickLogin() {
+    	
+    	//Adding custom exception for handling login button.
+    	if (driver.findElements(loginButton).isEmpty()) {
+           throw new ElementNotFoundException("Login button not found on Login Page");
+    	}
     	 log.info("Click on login button");
     	waitForClickability(loginButton, 10).click();
     }

@@ -19,6 +19,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import exceptions.DriverNotInitializedException;
+
 
 public class DriverManager  {
 	
@@ -65,7 +67,7 @@ public class DriverManager  {
                 	driver.set(new EdgeDriver());
                     break;
                 default:
-                    throw new RuntimeException("Unsupported browser: " + browser);
+                	throw new DriverNotInitializedException("Attempted to init WebDriver, but it was never initialized.");
             }
 
             driver.get().manage().window().maximize();
@@ -81,6 +83,10 @@ public class DriverManager  {
             driver.get().quit();
             driver.remove(); // remove from ThreadLocal storage
         }
+    	else
+    	{
+    		throw new DriverNotInitializedException("Attempted to quit WebDriver, but it was never initialized.");
+    	}
     }
 
 
